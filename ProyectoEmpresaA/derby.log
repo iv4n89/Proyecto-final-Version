@@ -1,0 +1,448 @@
+----------------------------------------------------------------
+Thu Jun 10 23:51:37 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\af77252d-616c-4f59-b030-7a0333f6bfc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 10 23:52:36 CEST 2021:
+Shutting down instance a816c00e-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\af77252d-616c-4f59-b030-7a0333f6bfc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Thu Jun 10 23:52:37 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\4b677365-f34d-4807-8489-019b039a8293 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 10 23:52:42 CEST 2021:
+Shutting down instance 176240b2-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\4b677365-f34d-4807-8489-019b039a8293 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Thu Jun 10 23:52:43 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a0f1c156-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\8086c4b1-9d60-4b1c-890a-e46e6d18362b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 10 23:54:37 CEST 2021:
+Shutting down instance a0f1c156-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\8086c4b1-9d60-4b1c-890a-e46e6d18362b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Thu Jun 10 23:54:38 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 44c541fa-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\2deb6036-c338-43d9-886d-02808ff45dfa with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 10 23:57:40 CEST 2021:
+Shutting down instance 44c541fa-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\2deb6036-c338-43d9-886d-02808ff45dfa with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Thu Jun 10 23:57:41 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 02dcc29e-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\98ff2495-ae90-43b7-b6f7-e5ebb61892ec with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 10 23:58:50 CEST 2021:
+Shutting down instance 02dcc29e-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\98ff2495-ae90-43b7-b6f7-e5ebb61892ec with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Thu Jun 10 23:58:51 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance db384342-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\e2d099d2-1574-46c8-a1fe-89f41f89eb13 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:00:22 CEST 2021:
+Shutting down instance db384342-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\e2d099d2-1574-46c8-a1fe-89f41f89eb13 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:00:23 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cdd7c3e6-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\fe1505a5-6978-4be4-b042-ba144bc7cf40 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:01:04 CEST 2021:
+Shutting down instance cdd7c3e6-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\fe1505a5-6978-4be4-b042-ba144bc7cf40 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:01:05 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance dabb448a-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\29ef46c7-8236-4a4d-b4f4-d18dcb402288 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:02:02 CEST 2021:
+Shutting down instance dabb448a-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\29ef46c7-8236-4a4d-b4f4-d18dcb402288 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:02:03 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 01e2c52e-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\9dc5eb5d-b9ed-4033-b915-6141407ca01b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:02:11 CEST 2021:
+Shutting down instance 01e2c52e-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\9dc5eb5d-b9ed-4033-b915-6141407ca01b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:02:12 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 434e45d2-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\c27b43fc-5422-4deb-8849-3405091a891d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:02:42 CEST 2021:
+Shutting down instance 434e45d2-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\c27b43fc-5422-4deb-8849-3405091a891d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:02:43 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9efdc676-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\1a37b828-0007-47ca-9324-9332daa4a97e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:03:27 CEST 2021:
+Shutting down instance 9efdc676-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\1a37b828-0007-47ca-9324-9332daa4a97e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:03:28 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 14f1471a-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\ce54934b-b721-4c8b-84d2-d8fc998b882e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:03:58 CEST 2021:
+Shutting down instance 14f1471a-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\ce54934b-b721-4c8b-84d2-d8fc998b882e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:03:59 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a528c7be-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\718ff7d1-146f-4e49-b783-dee4c026c3db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:04:36 CEST 2021:
+Shutting down instance a528c7be-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\718ff7d1-146f-4e49-b783-dee4c026c3db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:04:37 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4fa44862-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\9525f857-e57c-4667-9955-0a73c932f71b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:05:08 CEST 2021:
+Shutting down instance 4fa44862-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\9525f857-e57c-4667-9955-0a73c932f71b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:05:09 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1463c906-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\44145a35-3f3b-450c-8b92-c22d81f65a9d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:06:49 CEST 2021:
+Shutting down instance 1463c906-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\44145a35-3f3b-450c-8b92-c22d81f65a9d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:06:50 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f36749aa-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\f5db9eb4-93f5-449f-b2b5-a4f74f1ca434 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:10:41 CEST 2021:
+Shutting down instance f36749aa-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\f5db9eb4-93f5-449f-b2b5-a4f74f1ca434 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:10:42 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ecaeca4e-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\5da741be-cb9b-4130-9b7f-ca38b1c6f716 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:15:35 CEST 2021:
+Shutting down instance ecaeca4e-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\5da741be-cb9b-4130-9b7f-ca38b1c6f716 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:15:36 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 003a4af2-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\59ac1a25-d7bf-4071-b68a-0d1ed4d56876 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:16:26 CEST 2021:
+Shutting down instance 003a4af2-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\59ac1a25-d7bf-4071-b68a-0d1ed4d56876 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:16:27 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2e09cb96-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\b5c055b2-e215-422f-81d9-f67578a9ee0e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:16:36 CEST 2021:
+Shutting down instance 2e09cb96-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\b5c055b2-e215-422f-81d9-f67578a9ee0e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:16:37 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 761d4c3a-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\cb3ebf84-4d0c-4e59-814b-dd2fe0e69e0c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:18:42 CEST 2021:
+Shutting down instance 761d4c3a-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\cb3ebf84-4d0c-4e59-814b-dd2fe0e69e0c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:18:43 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d874ccde-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\aaf53e03-78c4-4f4c-b15f-88788b038e1a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:22:38 CEST 2021:
+Shutting down instance d874ccde-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\aaf53e03-78c4-4f4c-b15f-88788b038e1a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:22:39 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 55104d82-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\32c1d77c-2f11-42ee-b153-b0d13c60dd9b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:24:05 CEST 2021:
+Shutting down instance 55104d82-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\32c1d77c-2f11-42ee-b153-b0d13c60dd9b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:24:06 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ebefce26-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\210b61af-ecc9-445a-9d91-de90f1904fd7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:26:57 CEST 2021:
+Shutting down instance ebefce26-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\210b61af-ecc9-445a-9d91-de90f1904fd7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:26:58 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9d134eca-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\d6bacd1a-e7b3-4944-b49a-35eaaea48cae with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:27:46 CEST 2021:
+Shutting down instance 9d134eca-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\d6bacd1a-e7b3-4944-b49a-35eaaea48cae with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:27:47 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 687acf6e-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\bd27a97f-d8d2-462f-9b6a-925b65014345 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:29:08 CEST 2021:
+Shutting down instance 687acf6e-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\bd27a97f-d8d2-462f-9b6a-925b65014345 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:29:09 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4e265012-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\0f08019d-5140-42ef-b94b-099cf5cc5ec7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:32:05 CEST 2021:
+Shutting down instance 4e265012-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\0f08019d-5140-42ef-b94b-099cf5cc5ec7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:32:06 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4e15d0b6-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\e4ba6de1-25e0-4036-bd3a-500ad3942953 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:33:58 CEST 2021:
+Shutting down instance 4e15d0b6-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\e4ba6de1-25e0-4036-bd3a-500ad3942953 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+----------------------------------------------------------------
+Fri Jun 11 00:33:59 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6849515a-0179-f7e8-c3bb-000011bb9ce0 
+on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\80ca679c-bc5f-4601-9887-31d0d558045e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/iv4n8/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=BellSoft
+java.runtime.version=11.0.9.1+1-LTS
+user.dir=G:\Java\Master-FullStack-2020\ProyectoEmpresaA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 11 00:34:43 CEST 2021:
+Shutting down instance 6849515a-0179-f7e8-c3bb-000011bb9ce0 on database directory memory:G:\Java\Master-FullStack-2020\ProyectoEmpresaA\80ca679c-bc5f-4601-9887-31d0d558045e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
